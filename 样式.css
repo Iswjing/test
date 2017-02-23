@@ -1,0 +1,166 @@
+#slider {
+    position: relative;
+    width: 100%;
+}
+#header_wrapper{
+   width: 100%;
+    background: url("images/templatmeo_header1.jpg")no-repeat  top center;
+}
+#head{
+    background: url("images/templatmeo_header1.jpg")no-repeat  top center;
+    width: 980px;
+    height: 180px;
+    margin: 0 auto;
+    padding-top: 35px;
+    text-align: center;
+}
+.header{
+    border:2px solid black;
+    border-radius:25px;
+}
+#menu_wrapper{
+    width: 100%;
+    background: url("images/templatemo_menu.jpg")no-repeat  top center;
+}
+#menu{
+    background: url("images/templatemo_menu.jpg")no-repeat  top center;
+    width: 980px;
+    height: 103px;
+    margin: 0 auto;
+    padding-top: 4px;
+}
+#content_wrapper{
+    width: 100%;
+    background: url("images/templatemo_content.jpg")no-repeat top center;
+}
+#content{
+    background: url("images/templatemo_content.jpg")no-repeat top center;
+    width: 980px;
+    height: 428px;
+    margin: 0 auto;
+    padding:0 60px ;
+}
+#foot_wrapper{
+    width: 100%;
+    background: url("images/templatemo_footer.jpg")no-repeat top center;
+}
+#foot{
+    background: url("images/templatemo_footer.jpg")no-repeat top center;
+    width: 980px;
+    height: 92px;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: #999;
+    text-align: center;
+}
+ul.navigation {
+    width: 670px;
+    list-style: none;
+    margin: 0 auto;
+    padding: 0;
+}
+ul.navigation li {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+}
+ul.navigation a {
+    float: left;
+    display: block;
+    width: 104px;
+    height: 70px;
+    padding: 34px 30px 0;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background: url("images/templatemo_menu_bg.png")no-repeat top center;
+}
+ul.navigation a:hover, ul.navigation a.selected {
+    color: #FFFF00;
+}
+
+ul.navigation a:focus {
+    outline: none;
+}
+.scroll {
+    height: 415px;
+    width: 860px;
+    overflow: auto;
+    /*   overflow-x: hidden; */
+    position: relative;
+    clear: left;
+}
+.scrollContainer div.panel {
+    height: 380px;
+    width: 800px;
+    padding: 35px 30px 0 30px;
+}
+#home{
+    font-size: 1.3em;
+}
+
+
+.gril{
+    width: 150px;
+    height: 205px;
+
+
+}
+.content11{
+    float: left;
+    width: 210px;
+    height: 205px;
+    margin-bottom: 20px;
+    padding-left: 65px;
+    line-height: 1.3em;
+}
+.picture{
+    float: right;
+
+}
+.chengshi{
+    width: 300px;
+    height: 130px;
+}
+.content12{
+    padding-left: 60px;
+
+}
+.content12 p{
+    line-height: 1.5em;
+}
+#aboutus{
+    text-align: center;
+}
+.tu1{
+    width: 70%;
+    height: 6%;
+
+    padding-bottom: 9px;
+}
+#aboutus p{
+    font-size: 18px;
+    padding: 0;
+}
+.content5{
+    padding-left: 60px;
+}
+.content5 p{
+    font-size: 18px;
+    line-height: 1.5em;
+}
+
+.renzhi{
+    font-size: 18px;
+    padding-left: 60px;
+    line-height: 1.5em;
+}
+.lianxi{
+    padding-left: 60px;
+    font-size: 18px;
+}
+.tou{
+    font-size: 18px;
+}
